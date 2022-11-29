@@ -1,2 +1,2 @@
-9-easter_egg.py
-9-easter_egg.py
+#!/usr/bin/python3
+import this
