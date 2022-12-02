@@ -1,2 +1,3 @@
-4-print_hexa.py
-4-print_hexa.py
+#!/usr/bin/python3
+for i in range(0, 99):
+    print("{:d} =".format(i), hex(i))
